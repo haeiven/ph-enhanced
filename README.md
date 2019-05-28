@@ -4,6 +4,8 @@
 
 ![Prop Hunt: Enhanced Cover](https://i.ibb.co/4PV3QSk/image.png "Prop Hunt: Enhanced v.15 New Main Menu")
 
+**This is a reupload, since Wolvindra stopped the developpment, I will try to make it updated by the community**
+
 ## Base Information
 **Version: 15, Revision: I, Release Type: Stopped/Hiatus**
 
