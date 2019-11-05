@@ -1,4 +1,4 @@
-# This is a reupload, since Wolvindra stopped the developpment, I will try to make it updated by the community
+# This is a reupload, since Wolvindra stopped the developpment, this is him latest updated version.
 
 # Wolvin's - Prop Hunt: ENHANCED v.15 Rev. I
 
